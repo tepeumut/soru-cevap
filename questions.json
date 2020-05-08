@@ -1,0 +1,121 @@
+[
+  {
+    "type": "text",
+    "time": 20,
+    "point": 5,
+    "name": "What is the name of the film Chloe Decker is best known for?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "The Lord of The Rings"
+      },
+      {
+        "id": "b",
+        "answer": "Hot Tub High School"
+      },
+      {
+        "id": "c",
+        "answer": "The Hangover"
+      },
+      {
+        "id": "d",
+        "answer": "(500) Days of Summer"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "type": "image",
+    "time": 20,
+    "point": 10,
+    "name": "What is the name of the character in the picture",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Amanda"
+      },
+      {
+        "id": "b",
+        "answer": "Chloe"
+      },
+      {
+        "id": "c",
+        "answer": "Charlie"
+      },
+      {
+        "id": "d",
+        "answer": "Maze"
+      },
+      {
+        "id": "e",
+        "answer": "Beatrice"
+      }
+    ],
+    "correct": "d",
+    "image": "assets/question_2.jpg"
+  },
+  {
+    "type": "music",
+    "time": 20,
+    "point": 15,
+    "name": "What song plays at the start of the first episode of Lucifer?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Ain’t No Rest For The Wicked by Cage The Elephant"
+      },
+      {
+        "id": "b",
+        "answer": "Being Evil Has a Price"
+      },
+      {
+        "id": "c",
+        "answer": "Fame. David Bowie"
+      },
+      {
+        "id": "d",
+        "answer": "Way Down We Go. Kaleo"
+      },
+      {
+        "id": "e",
+        "answer": "Devil Devil. MILCK"
+      }
+    ],
+    "correct": "a",
+    "music": "assets/question_3.mp3"
+  },
+  {
+    "type": "video",
+    "time": 20,
+    "point": 15,
+    "name": "In which episode is the video you watched?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Anything Pierce Can Do I Can Do Better"
+      },
+      {
+        "id": "b",
+        "answer": "Quintessential Deckerstar"
+      },
+      {
+        "id": "c",
+        "answer": "Stewardess Interruptus"
+      },
+      {
+        "id": "d",
+        "answer": "Deceptive Little Parasite"
+      },
+      {
+        "id": "e",
+        "answer": "They're Back, Aren't They?"
+      },
+      {
+        "id": "f",
+        "answer": "All Hands on Decker"
+      }
+    ],
+    "correct": "a",
+    "video": "https://www.youtube.com/embed/8tFjOjGHlg0"
+  }
+]
